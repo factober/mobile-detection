@@ -1,0 +1,26 @@
+{
+  "name": "mobile-detection",
+  "version": "1.0.0",
+  "description": "A framework-agnostic mobile detection package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/factober/mobile-detection.git"
+  },
+  "keywords": [
+    "mobile",
+    "detection",
+    "package",
+    "npm",
+    "responsive"
+  ],
+  "author": "Vishal Bandre (Factober)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/factober/mobile-detection/issues"
+  },
+  "homepage": "https://github.com/factober/mobile-detection#readme"
+}
