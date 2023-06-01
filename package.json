@@ -1,6 +1,6 @@
 {
   "name": "mobile-detection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A framework-agnostic mobile detection package",
   "main": "index.js",
   "scripts": {
